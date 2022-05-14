@@ -2,7 +2,7 @@
 
 - :smirk: I'm a programming enthusiast
 - :star: I’m interested in network programming
-- :books: I’m currently learning c++ & rust
+- :books: I’m currently learning japanese
 - :fish: I'm good at touching fish
 - :key: GPG: 6B1E5C1221298FC0355C50CC4AE2F6138AFE573F
 
