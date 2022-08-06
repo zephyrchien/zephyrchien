@@ -4,7 +4,7 @@
 - :star: I’m interested in network programming
 - :books: I’m currently learning japanese
 - :fish: I'm good at touching fish
-- :key: GPG: 6B1E5C1221298FC0355C50CC4AE2F6138AFE573F
+- :key: keyserver.ubuntu.com: 4a40855f05024a9e
 
 [![Zephyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zephyrchien&show_icons=true&theme=algolia&hide_title=true)
 ](https://github.com/anuraghazra/github-readme-stats)
