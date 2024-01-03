@@ -2,7 +2,7 @@
 
 - :smirk: I'm a programming enthusiast
 - :star: I’m interested in network programming
-- :books: I’m currently learning japanese
+- :books: I’m currently learning pure functional languages
 - :fish: I'm good at touching fish
 - :key: keyserver.ubuntu.com: 809594e3
 
