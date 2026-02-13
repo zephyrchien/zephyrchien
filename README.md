@@ -1,10 +1,10 @@
-### Hi there :corn::corn::corn:
+Zephyr(Зефир, pronunced Zeh-FEER; ZEF-ur is also good).
 
-- :smirk: I'm a programming enthusiast
-- :star: I’m interested in network programming
-- :books: I’m currently learning pure functional languages
-- :fish: I'm good at touching fish
-- :key: keyserver.ubuntu.com: 809594e3
+A traditional programmer who learnt to write code by hobby in 2019.
+
+Be patient. Think deeply. Build creative projects like an artist.
+
+I don't put any piece of LLM-generated nonsense on GitHub.
 
 <!--
 [![Zephyr's GitHub stats](https://github-readme-stats-bice-gamma-56.vercel.app/api?username=zephyrchien&show_icons=true&theme=algolia&hide_title=true)
