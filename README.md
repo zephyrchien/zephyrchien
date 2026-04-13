@@ -2,7 +2,7 @@ Zephyr(Зефир, pronunced Zeh-FEER; ZEF-ur is also good).
 
 A traditional programmer who learnt to write code by hobby in 2019.
 
-Be patient. Think deeply. Build creative projects like an artist.
+Be patient. Think deeply. Build creative projects.
 
 I don't put any piece of LLM-generated nonsense on GitHub.
 
